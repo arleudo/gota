@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "created_at": "5/5/2025, 1:09:36 PM",
+    "model": "Civic",
+    "capacity": 130,
+    "initialMeasure": 10,
+    "finalMeasure": 20
+  },
+  {
+    "id": "2",
+    "created_at": "5/5/2025, 1:09:36 PM",
+    "model": "Corolla", 
+    "capacity": 150,
+    "initialMeasure": 0,
+    "finalMeasure": 0
+  },
+  {
+    "id": "3",
+    "created_at": "5/5/2025, 1:09:36 PM",
+    "model": "Hilux",
+    "capacity": 200,
+    "initialMeasure": 0,
+    "finalMeasure": 0
+  }
+]
